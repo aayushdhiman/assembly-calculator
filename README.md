@@ -1,4 +1,3 @@
-# Assignment 2: A Calculator in Assembly
+# A Calculator in Assembly
 
-This is your starter code repo for Assignment 2. Please see the corresponding description on our website under [Assignments](https://course.ccs.neu.edu/cs3650f22/hw.html).
-
+Built from starter code for a systems class. Acts exactly as the title implies: it is a basic calculator created in assembly.
